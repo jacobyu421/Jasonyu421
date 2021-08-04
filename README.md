@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jacob YU
+- 👋 Hi, I’m @Jacob Yu
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript, React, Django
 - 📫 How to reach me cian79421@gmail.com
